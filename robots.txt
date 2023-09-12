@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://happy955201314.github.io//sitemap.xml
+Sitemap: https://happy955201314.github.io/sitemap.xml
