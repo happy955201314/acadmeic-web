@@ -1,0 +1,33 @@
+- title: 
+  type: time_table
+  contents:
+    - title: Teaching Assistance of Computer Programming
+      location: Taipei
+      institution: National Taiwan University
+      department: Electrical Engineering
+      year: 2021 SPRING
+      description:
+        - Description aa 
+
+    - title: Teaching Assistance of Machine Learning Foundation
+      institution: National Taiwan University
+      year: 2021 FALL
+      department: Electrical Engineering
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Teaching Assistance of Discrete Mathematic
+      institution: National Taiwan University
+      department: Electrical Engineering
+      year: 2021 FALL
+
+    - title: Teaching Assistance of Data Structure
+      institution: National Tsing Hua University
+      department: Computer Science
+      year: 2018 FALL
+
+    - title: Teaching Assistance of Programming 1&2
+      institution: National Tsing Hua University
+      department: Computer Science
+      year: 2017 SPRING
