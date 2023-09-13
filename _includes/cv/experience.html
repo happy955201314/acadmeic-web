@@ -24,11 +24,32 @@
                 <td class="department">{{content.department}}</td>
               </tr>
               {% endif %}
+              {% if content.advisor %}
+              <tr>
+                <td style="vertical-align: top; text-align: center;" class="department"><i class="far fa-user icondepartment"></i></td>
+                <td class="department"><a href="{{content.url}}">{{content.advisor}}</a></td>
+              </tr>
+              {% endif %}
+              {% if content.advisor contains "Advisor" %}
+              <tr>
+                <td style="vertical-align: top; text-align: center;" class="department"><i class="far fa-hand-point-right icondepartment"></i></td>
+                <td class="department detailss"><a role="button" class="abstract">Details</a></td>
+              </tr>
+              {% endif %}
             </tbody>
             </table>
         {% endif %}
         {% if content.maindescription %}
-              <div class="">{{ content.maindescription }}</div>
+              <div class="ml-1 ml-md-4 ">{{ content.maindescription }}</div>
+            {% endif %}
+        {% if content.description %}
+            <ul class="items" >
+            {% for item in content.description %}
+                <li>
+                    <span class="item" >{{ item }}</span>
+                </li>
+            {% endfor %}
+            </ul>
         {% endif %}
     </div>
     {% endfor %}
