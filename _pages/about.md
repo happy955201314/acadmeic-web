@@ -16,13 +16,12 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+Welcome! <a href="#"><b>Chi-Wei Chen</b></a> received his Master's degree in Electrical Engineering, specializing in the cybersecurity track, at National Taiwan University, advised by <a href="https://homepage.ntu.edu.tw/~sykuo/">Prof. Sy-Yen Kuo</a>. Before that, Chi-Wei earned his Bachelor's degree in the Computer Science Department from National Tsing Hua University, advised by <a href="https://logoslab.github.io/">Prof. Ren-Song Tsay</a>. Additionally, he was a research assistant at Academia Sinica, collaborating closely with <a href="https://homepage.iis.sinica.edu.tw/pages/janeliu/contact_en.html">Prof. Jane Liu</a> and <a href="https://homepage.iis.sinica.edu.tw/~kmchung/">Prof. Kai-Min Chung</a>.
 
-Welcome! I am <b>Chi-Wei Chen</b>, deeply enthusiastic about the realms of <b>hardware security</b> and <b>teaching</b>. I earned my <b>Bachelor's degree</b> in Computer Science from the <b>National Tsing Hua University</b>, under the expert guidance of <a href="https://logoslab.github.io/"><b>Prof. Ren-Song Tsay</b></a>. Following that, I embarked on a research adventure as a research assistant at Academia Sinica, collaborating closely with <a href="https://homepage.iis.sinica.edu.tw/pages/janeliu/contact_en.html"><b>Prof. Jane Liu</b></a> and <a href="https://homepage.iis.sinica.edu.tw/~kmchung/"><b>Prof. Kai-Min Chung</b></a>. 
-
-My academic pursuits continued with the attainment of a <b>Master's degree</b> in Electrical Engineering, specializing in cybersecurity track, at <b>National Taiwan University</b>. During this phase, I had the privilege of being mentored by <a href="https://homepage.ntu.edu.tw/~sykuo/"><b>Prof. Sy-Yen Kuo</b></a>. Presently, I am actively shaping my plans to embark on a <b>Ph.D.</b> journey within the field of <b>hardware security</b>, fueled by an unwavering dedication to advancing knowledge and innovation.
+His research interests primarily span the field of security, with a specific focus on hardware security. He is particularly passionate about investigating hardware Trojans, side-channel attacks, and embedded security. He aspires to leverage his software skills to address hardware security issues.
 
 <h3 id="research">Research</h3>
-My research interests lie primarily and widely in the field of security, with a specific focus on hardware security. I am particularly passionate about investigating hardware Trojans, side-channel attacks, and embedded security. I aspire to leverage my software skills to verify and address hardware security issues.
+
 <div class="research publications">
   {% for entry in site.data.research %}
       {% include cv/experience.html %}                
