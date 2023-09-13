@@ -21,7 +21,7 @@ Welcome! <a href="#"><b>Chi-Wei Chen</b></a> received his Master's degree in Ele
 His research interests primarily span the field of security, with a specific focus on hardware security. He is particularly passionate about investigating hardware Trojans, side-channel attacks, and embedded security. He aspires to leverage his software skills to address hardware security issues.
 
 <h3 id="research">Research</h3>
-
+Due to my background in both Computer Science (CS) and Electrical Engineering (EE), I possess relevant experience in both software and hardware. The following outlines my research experience:
 <div class="research publications">
   {% for entry in site.data.research %}
       {% include cv/experience.html %}                
