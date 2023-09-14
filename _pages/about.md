@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i class="far fa-envelope"></i> r08921a28@ntu.edu.tw |chiwei955201314@gmail.com
+subtitle: <i class="far fa-envelope"></i> r08921a28@ntu.edu.tw | chiwei955201314@gmail.com
 
 profile:
   align: right
