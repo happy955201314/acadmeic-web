@@ -31,25 +31,15 @@
               </tr>
               {% endif %}
               {% if content.advisor contains "Advisor" %}
+              {% for item in content.description %}
               <tr>
                 <td style="vertical-align: top; text-align: center;" class="department"><i class="far fa-hand-point-right icondepartment"></i></td>
-                <td class="department detailss"><a role="button" class="abstract">Details</a></td>
+                <td class="department detailss"><a role="button" class="abstract">{{item}}</a></td>
               </tr>
+              {% endfor %}
               {% endif %}
             </tbody>
             </table>
-        {% endif %}
-        {% if content.maindescription %}
-              <div class="ml-1 ml-md-4 ">{{ content.maindescription }}</div>
-            {% endif %}
-        {% if content.description %}
-            <ul class="items" >
-            {% for item in content.description %}
-                <li>
-                    <span class="item" >{{ item }}</span>
-                </li>
-            {% endfor %}
-            </ul>
         {% endif %}
     </div>
     {% endfor %}

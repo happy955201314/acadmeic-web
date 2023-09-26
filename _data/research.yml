@@ -6,15 +6,14 @@
     advisor: "Advisor: Prof. Sy-Yen Kuo, IEEE fellow"
     url: https://homepage.ntu.edu.tw/~sykuo/
     description: 
-      - "Conduct research in the field of hardware security, with a specific focus on gate-level hardware Trojans."
+      - Hardware Trojan detection, insertion and concealment / Adversarial Malware Generation
   
   - title: Research Assistant
     institution: National Chengchi University
     year: 2021.3 - 2021.10
     department: College of Communication
     description: 
-      - National Science and Technology Council research program
-      - Designing and programming a web crawler system aimed at facilitating research in the social sciences.
+      - crawler / c# / .NET app
     advisor: "Advisor : Associate Dean Prof. Jyh-Jian Sheu"
     url: https://comm.nccu.edu.tw/PageStaffing/Detail?fid=11165&id=3801
 
@@ -23,8 +22,7 @@
     year: 2020.8 - 2021.7
     department: Department of Finance
     description:
-      - National Science and Technology Council reseaerch program
-      - Designing and programming a decision tree-based system tailored to enhance research in the finance field.
+      - decision tree-based system / c# 
     advisor: "Advisor: Associate Prof. Ko-Tsung Chu"
     url: https://acade.must.edu.tw/member/list.aspx?UnitID=50&id=1103
 
@@ -35,8 +33,8 @@
     advisor: "Advisor: Prof. Jane Liu, IEEE fellow"
     url: https://homepage.iis.sinica.edu.tw/pages/janeliu/contact_en.html
     description:
-      - I am responsible for software development, primarily focusing on creating BeDIS (Building/Environment Data and Information System) based on LBeacon technology.
-      - Congratulations to my friends for embarking on their <a href="https://www.bidae.tech/home-english/">startup</a> journey!
+      - LBeacon / React / Redux 
+      - <a href="https://www.bidae.tech/home-english/">startup website</a>
 
   - title: Summer Intern
     institution: Institute of Information Science, Academia Sinica
@@ -45,9 +43,8 @@
     advisor: "Advisor: Prof. Kai-Min Chung"
     url: https://homepage.iis.sinica.edu.tw/~kmchung/
     description:
-      - Engaging in research on quantum theory, algorithms, and cryptography.
-      - Given the scarcity of Chinese-language quantum information, I have authored a brief gitbook aimed at providing an introduction to fundamental quantum algorithms.
-  
+      - quantum theory / algorithms / cryptography.
+
   - title: Undergraduate Research Assistant
     institution: National Tsing Hua University
     department: LOGOS Lab
@@ -55,4 +52,4 @@
     advisor: "Advisor: Prof. Ren-Song Tsay"
     url: https://logoslab.github.io/
     description:
-      - Developing a mobile e-ticket system using a technology stack that includes Hyperledger Fabric and Hyperledger Composer for blockchain, MongoDB for data storage, and building the user interface with a React Native mobile app.
+      - blockchain / react native app

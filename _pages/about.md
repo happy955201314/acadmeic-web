@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i class="far fa-envelope"></i> r08921a28@ntu.edu.tw | chiwei955201314@gmail.com
+subtitle: r08921a28@ntu.edu.tw |  <a href="https://scholar.google.com.tw/citations?hl=zh-TW&user=-sxgHVAAAAAJ">google scholar</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 Welcome! <a href="#"><b>Chi-Wei Chen</b></a> received his Master's degree in Electrical Engineering, specializing in the cybersecurity track, at National Taiwan University, advised by <a href="https://homepage.ntu.edu.tw/~sykuo/">Prof. Sy-Yen Kuo</a>. Before that, Chi-Wei earned his Bachelor's degree in the Computer Science Department from National Tsing Hua University, advised by <a href="https://logoslab.github.io/">Prof. Ren-Song Tsay</a>. Additionally, he was a research assistant at Academia Sinica, collaborating closely with <a href="https://homepage.iis.sinica.edu.tw/pages/janeliu/contact_en.html">Prof. Jane Liu</a> and <a href="https://homepage.iis.sinica.edu.tw/~kmchung/">Prof. Kai-Min Chung</a>.
 
-His research interests primarily span the field of security, with a specific focus on hardware security. He is particularly passionate about investigating hardware Trojans, side-channel attacks, and embedded security. He aspires to leverage his software skills to address hardware security issues.
+His research interests primarily span the field of security, with a specific focus on hardware security. He is particularly passionate about investigating hardware Trojans, side-channel attacks, and system security. He aspires to leverage his software skills to address hardware security issues.
 
 <h3 id="research">Research</h3>
 Due to my background in both Computer Science (CS) and Electrical Engineering (EE), I possess relevant experience in both software and hardware. The following outlines my research experience:
